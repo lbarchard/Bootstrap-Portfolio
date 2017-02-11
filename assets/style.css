@@ -102,6 +102,11 @@
 }
 
 
+.portfolioPic {
+	width: 100%;
+	margin-bottom: 25px;
+}
+
 
 .footer {
 	border-top: 10px solid #4aaaa5;
@@ -111,4 +116,5 @@
 	text-align: center;
 	padding-top: 25px;	
 }
+
 
