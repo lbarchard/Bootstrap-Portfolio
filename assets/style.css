@@ -107,6 +107,51 @@
 	margin-bottom: 25px;
 }
 
+form {
+	display: block;
+	margin-top: 0em;
+}
+
+.formlabel {
+	color: #777777;
+	font-family: "Arial";
+	font-size: 14pt;
+
+}
+
+
+.inputFields {
+	border-color: lightgray;
+	width: 100%;
+	margin-right: 5%;
+	margin-bottom: 25px;
+	border-style: solid;
+	height: 30px;
+	padding-left: 15px;
+}
+
+.messageFields {
+	border-color: lightgray;
+	width: 100%;
+	border-style: solid;
+	height: 120px;
+	padding-left: 15px;	
+}
+
+button {
+	margin-left: 30px;
+	height: 40px;
+	width: 120px;
+	border-style: none;
+	font-family: "Arial";
+	font-size: 12pt;
+	margin-top: 10px;
+	color: white;
+	background-color: #4aaaa5;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
 
 .footer {
 	border-top: 10px solid #4aaaa5;
